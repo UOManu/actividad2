@@ -12,6 +12,8 @@ const FILES_TO_CACHE = [
   "/main.js",
   "/canvas.css",
   "/manifest.json",
+  "/192x192.png"
+  "512x512.png"
   "https://cdn.jsdelivr.net/npm/phaser@3/dist/phaser.js"
 ];
 
